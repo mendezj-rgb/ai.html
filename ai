@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baseball 2026 Season - Spring Preview</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Arial, sans-serif;
+            background-color: #f0fff4;
+            color: #2f4f2f;
+        }
+
+        header {
+            background: linear-gradient(90deg, #81c784, #4caf50);
+            color: white;
+            text-align: center;
+            padding: 25px;
+            border-bottom: 4px solid #2e7d32;
+        }
+
+        header img {
+            max-width: 120px;
+            display: block;
+            margin: 10px auto 0;
+        }
+
+        .container {
+            display: flex;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .column {
+            flex: 1;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            border: 2px solid #c8e6c9;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        .main-image {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+
+        footer {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            border-top: 4px solid #2e7d32;
+            margin-top: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Spring Into Baseball: 2026 Season Preview</h1>
+    <p>A fresh season full of energy and opportunity</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Baseball_%28crop%29.jpg" alt="Baseball">
+</header>
+
+<div class="container">
+    <div class="column">
+        <img class="main-image" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Baseball_field_in_spring.jpg" alt="Baseball Field">
+        <p>
+            As the 2026 baseball season begins in the heart of spring, teams and fans alike are energized by the sense of renewal that comes with the season. Fresh talent has emerged from farm systems, and many young players are ready to make an immediate impact. Spring training has provided an early glimpse into the potential breakout stars who may define the year ahead.
+        </p>
+        <p>
+            Pitching remains a cornerstone of success, with teams emphasizing depth and flexibility in their rotations. Advances in training and analytics have allowed pitchers to refine their craft, making early-season matchups especially exciting. Managers will continue to rely on strategic bullpen usage to secure close victories.
+        </p>
+        <p>
+            Offensively, the emphasis on speed and smart base running is expected to continue shaping the game. With evolving rules encouraging more action, fans can expect a lively and engaging style of play that highlights both athleticism and strategy.
+        </p>
+    </div>
+
+    <div class="column">
+        <img class="main-image" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Baseball_game_action.jpg" alt="Baseball Game Action">
+        <p>
+            The competitive landscape for the 2026 season appears wide open, with several teams poised to challenge for the top spot. The balance across divisions means that every game will carry weight, especially as teams jockey for playoff positioning throughout the season.
+        </p>
+        <p>
+            Beyond the action on the field, the fan experience continues to evolve alongside the sport. Ballparks are embracing new technologies and interactive features, creating an immersive environment that reflects the vibrant energy of spring. Fans can enjoy a deeper connection to the game whether they attend in person or watch from home.
+        </p>
+        <p>
+            As tradition meets innovation, baseball in 2026 promises to deliver memorable moments that capture the essence of the sport. The season is set to celebrate both the history of the game and its exciting future, making it a must-watch for fans everywhere.
+        </p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2026 Baseball Spring Season Preview | Play Ball!</p>
+</footer>
+
+</body>
+</html>
